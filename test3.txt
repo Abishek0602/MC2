@@ -1,2 +1,2 @@
-create from vs code
+create from git branch
 
